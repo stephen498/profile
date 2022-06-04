@@ -6,10 +6,7 @@
         .container {
             display: grid;
             grid-template-rows: 60px 100%;
-            background-image: url('atmosphere_fog_background.jpg');
-            background-size: 100%;
-            background-repeat: no-repeat;
-            height: 1500px;
+            /*height: 1500px;*/
         }
         
         th,
@@ -99,6 +96,9 @@
             display: grid;
             grid-template-rows: 40px 550px;
             padding-top: 20px;
+            background-image: url('atmosphere_fog_background.jpg');
+            background-size: 100%;
+            background-repeat: no-repeat;
         }
         
         .content h1 {
