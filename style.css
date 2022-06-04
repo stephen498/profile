@@ -149,8 +149,8 @@
         .display1,
         .display2,
         .display3 {
-            margin-top: 20px;
-            margin-bottom: 20px;
+            margin-top: auto;
+            margin-bottom: auto;
             border-radius: 5%;
             -webkit-border-radius: 5%;
             -moz-border-radius: 5%;
