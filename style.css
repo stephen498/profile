@@ -278,7 +278,7 @@
         }
         
         @media(min-width:700px) {
-            .container {
+            .content {
                 background-image: url('atmosphere_fog_background.jpg');
                 background-size: 100%;
                 background-repeat: no-repeat;
